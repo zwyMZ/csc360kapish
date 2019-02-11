@@ -1,2 +1,2 @@
-#CSC360 Assignment1 
-an implementation of swap and left_shit function of the doubly linked list
+#CSC360 Assignment1 kapish
+an implementation of command line interpreter of linux system
